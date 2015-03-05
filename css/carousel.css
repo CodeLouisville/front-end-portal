@@ -1,4 +1,4 @@
-﻿/* GLOBAL STYLES
+/* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
@@ -45,6 +45,8 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
+  background: rgba(0,0,0,0.5);
+  border-radius: 4px;
 }
 
 /* Declare heights because of positioning of img element */
